@@ -1,0 +1,105 @@
+number of nodes: 6 ,,,number of nodes: 6 ,,,number of nodes: 6 ,,,number of nodes: 6 ,,,,,,number of nodes: 6 ,,,number of nodes: 6 ,,
+capital_cost_pump_station: 0 ,,,capital_cost_pump_station: 10 ,,,capital_cost_pump_station: 100 ,,,capital_cost_pump_station: 1000 ,,,,,,capital_cost_pump_station: 10 ,,,capital_cost_pump_station: 10 ,,
+ps_OM_cost: 0 ,,,ps_OM_cost: 10 ,,,ps_OM_cost: 100 ,,,ps_OM_cost: 1000 ,,,,,,ps_OM_cost: 10 ,,,ps_OM_cost: 10 ,,
+water_demand: 1.095e-05 ,,,water_demand: 1.095e-05 ,,,water_demand: 1.095e-05 ,,,water_demand: 1.095e-05 ,,,,,,water_demand: 3.285e-05 ,,,water_demand: 0.0003285 ,,
+Solution Value: 14737.7 ,,,Solution Value: 14737.7 ,,,Solution Value: 14737.7 ,,,Solution Value: 14737.7 ,,,,,,Solution Value: 14737.7 ,,,Solution Value: 20549.8 ,,
+Solution Value 1: 14737.7 ,,,Solution Value 1: 14737.7 ,,,Solution Value 1: 14737.7 ,,,Solution Value 1: 14737.7 ,,,,,,Solution Value 1: 14737.7 ,,,Solution Value 1: 20549.8 ,,
+Solution Value 2: 0 ,,,Solution Value 2: 0 ,,,Solution Value 2: 0 ,,,Solution Value 2: 0 ,,,,,,Solution Value 2: 0 ,,,Solution Value 2: 0 ,,
+Solution Value 3: 0 ,,,Solution Value 3: 0 ,,,Solution Value 3: 0 ,,,Solution Value 3: 0 ,,,,,,Solution Value 3: 0 ,,,Solution Value 3: 0 ,,
+diameter[0,1,0.05] 1 ,diameter[0,1,0.05] 1 ,diameter[0,1,0.05] 1 ,diameter[0,1,0.05] 1 ,,,,diameter[0,1,0.05] 1 ,diameter[0,1,0.05] 1 
+diameter[0,1,0.06] 0 ,diameter[0,1,0.06] 0 ,diameter[0,1,0.06] 0 ,diameter[0,1,0.06] 0 ,,,,diameter[0,1,0.06] 0 ,diameter[0,1,0.06] 0 
+diameter[0,1,0.08] 0 ,diameter[0,1,0.08] 0 ,diameter[0,1,0.08] 0 ,diameter[0,1,0.08] 0 ,,,,diameter[0,1,0.08] 0 ,diameter[0,1,0.08] 0 
+diameter[0,1,0.1] 0 ,diameter[0,1,0.1] 0 ,diameter[0,1,0.1] 0 ,diameter[0,1,0.1] 0 ,,,,diameter[0,1,0.1] 0 ,diameter[0,1,0.1] 0 
+diameter[0,1,0.15] 0 ,diameter[0,1,0.15] 0 ,diameter[0,1,0.15] 0 ,diameter[0,1,0.15] 0 ,,,,diameter[0,1,0.15] 0 ,diameter[0,1,0.15] 0 
+diameter[0,1,0.2] 0 ,diameter[0,1,0.2] 0 ,diameter[0,1,0.2] 0 ,diameter[0,1,0.2] 0 ,,,,diameter[0,1,0.2] 0 ,diameter[0,1,0.2] 0 
+diameter[0,1,0.25] 0 ,diameter[0,1,0.25] 0 ,diameter[0,1,0.25] 0 ,diameter[0,1,0.25] 0 ,,,,diameter[0,1,0.25] 0 ,diameter[0,1,0.25] 0 
+diameter[0,1,0.3] 0 ,diameter[0,1,0.3] 0 ,diameter[0,1,0.3] 0 ,diameter[0,1,0.3] 0 ,,,,diameter[0,1,0.3] 0 ,diameter[0,1,0.3] 0 
+diameter[0,1,0.35] 0 ,diameter[0,1,0.35] 0 ,diameter[0,1,0.35] 0 ,diameter[0,1,0.35] 0 ,,,,diameter[0,1,0.35] 0 ,diameter[0,1,0.35] 0 
+diameter[0,1,0.4] 0 ,diameter[0,1,0.4] 0 ,diameter[0,1,0.4] 0 ,diameter[0,1,0.4] 0 ,,,,diameter[0,1,0.4] 0 ,diameter[0,1,0.4] 0 
+diameter[0,1,0.45] 0 ,diameter[0,1,0.45] 0 ,diameter[0,1,0.45] 0 ,diameter[0,1,0.45] 0 ,,,,diameter[0,1,0.45] 0 ,diameter[0,1,0.45] 0 
+diameter[0,1,0.5] 0 ,diameter[0,1,0.5] 0 ,diameter[0,1,0.5] 0 ,diameter[0,1,0.5] 0 ,,,,diameter[0,1,0.5] 0 ,diameter[0,1,0.5] 0 
+diameter[0,1,0.6] 0 ,diameter[0,1,0.6] 0 ,diameter[0,1,0.6] 0 ,diameter[0,1,0.6] 0 ,,,,diameter[0,1,0.6] 0 ,diameter[0,1,0.6] 0 
+diameter[1,2,0.05] 1 ,diameter[1,2,0.05] 1 ,diameter[1,2,0.05] 1 ,diameter[1,2,0.05] 1 ,,,,diameter[1,2,0.05] 1 ,diameter[1,2,0.05] 1 
+diameter[1,2,0.06] 0 ,diameter[1,2,0.06] 0 ,diameter[1,2,0.06] 0 ,diameter[1,2,0.06] 0 ,,,,diameter[1,2,0.06] 0 ,diameter[1,2,0.06] 0 
+diameter[1,2,0.08] 0 ,diameter[1,2,0.08] 0 ,diameter[1,2,0.08] 0 ,diameter[1,2,0.08] 0 ,,,,diameter[1,2,0.08] 0 ,diameter[1,2,0.08] 0 
+diameter[1,2,0.1] 0 ,diameter[1,2,0.1] 0 ,diameter[1,2,0.1] 0 ,diameter[1,2,0.1] 0 ,,,,diameter[1,2,0.1] 0 ,diameter[1,2,0.1] 0 
+diameter[1,2,0.15] 0 ,diameter[1,2,0.15] 0 ,diameter[1,2,0.15] 0 ,diameter[1,2,0.15] 0 ,,,,diameter[1,2,0.15] 0 ,diameter[1,2,0.15] 0 
+diameter[1,2,0.2] 0 ,diameter[1,2,0.2] 0 ,diameter[1,2,0.2] 0 ,diameter[1,2,0.2] 0 ,,,,diameter[1,2,0.2] 0 ,diameter[1,2,0.2] 0 
+diameter[1,2,0.25] 0 ,diameter[1,2,0.25] 0 ,diameter[1,2,0.25] 0 ,diameter[1,2,0.25] 0 ,,,,diameter[1,2,0.25] 0 ,diameter[1,2,0.25] 0 
+diameter[1,2,0.3] 0 ,diameter[1,2,0.3] 0 ,diameter[1,2,0.3] 0 ,diameter[1,2,0.3] 0 ,,,,diameter[1,2,0.3] 0 ,diameter[1,2,0.3] 0 
+diameter[1,2,0.35] 0 ,diameter[1,2,0.35] 0 ,diameter[1,2,0.35] 0 ,diameter[1,2,0.35] 0 ,,,,diameter[1,2,0.35] 0 ,diameter[1,2,0.35] 0 
+diameter[1,2,0.4] 0 ,diameter[1,2,0.4] 0 ,diameter[1,2,0.4] 0 ,diameter[1,2,0.4] 0 ,,,,diameter[1,2,0.4] 0 ,diameter[1,2,0.4] 0 
+diameter[1,2,0.45] 0 ,diameter[1,2,0.45] 0 ,diameter[1,2,0.45] 0 ,diameter[1,2,0.45] 0 ,,,,diameter[1,2,0.45] 0 ,diameter[1,2,0.45] 0 
+diameter[1,2,0.5] 0 ,diameter[1,2,0.5] 0 ,diameter[1,2,0.5] 0 ,diameter[1,2,0.5] 0 ,,,,diameter[1,2,0.5] 0 ,diameter[1,2,0.5] 0 
+diameter[1,2,0.6] 0 ,diameter[1,2,0.6] 0 ,diameter[1,2,0.6] 0 ,diameter[1,2,0.6] 0 ,,,,diameter[1,2,0.6] 0 ,diameter[1,2,0.6] 0 
+diameter[1,3,0.05] 1 ,diameter[1,3,0.05] 1 ,diameter[1,3,0.05] 1 ,diameter[1,3,0.05] 1 ,,,,diameter[1,3,0.05] 1 ,diameter[1,3,0.05] 0 
+diameter[1,3,0.06] 0 ,diameter[1,3,0.06] 0 ,diameter[1,3,0.06] 0 ,diameter[1,3,0.06] 0 ,,,,diameter[1,3,0.06] 0 ,diameter[1,3,0.06] 0 
+diameter[1,3,0.08] 0 ,diameter[1,3,0.08] 0 ,diameter[1,3,0.08] 0 ,diameter[1,3,0.08] 0 ,,,,diameter[1,3,0.08] 0 ,diameter[1,3,0.08] 1 
+diameter[1,3,0.1] 0 ,diameter[1,3,0.1] 0 ,diameter[1,3,0.1] 0 ,diameter[1,3,0.1] 0 ,,,,diameter[1,3,0.1] 0 ,diameter[1,3,0.1] 0 
+diameter[1,3,0.15] 0 ,diameter[1,3,0.15] 0 ,diameter[1,3,0.15] 0 ,diameter[1,3,0.15] 0 ,,,,diameter[1,3,0.15] 0 ,diameter[1,3,0.15] 0 
+diameter[1,3,0.2] 0 ,diameter[1,3,0.2] 0 ,diameter[1,3,0.2] 0 ,diameter[1,3,0.2] 0 ,,,,diameter[1,3,0.2] 0 ,diameter[1,3,0.2] 0 
+diameter[1,3,0.25] 0 ,diameter[1,3,0.25] 0 ,diameter[1,3,0.25] 0 ,diameter[1,3,0.25] 0 ,,,,diameter[1,3,0.25] 0 ,diameter[1,3,0.25] 0 
+diameter[1,3,0.3] 0 ,diameter[1,3,0.3] 0 ,diameter[1,3,0.3] 0 ,diameter[1,3,0.3] 0 ,,,,diameter[1,3,0.3] 0 ,diameter[1,3,0.3] 0 
+diameter[1,3,0.35] 0 ,diameter[1,3,0.35] 0 ,diameter[1,3,0.35] 0 ,diameter[1,3,0.35] 0 ,,,,diameter[1,3,0.35] 0 ,diameter[1,3,0.35] 0 
+diameter[1,3,0.4] 0 ,diameter[1,3,0.4] 0 ,diameter[1,3,0.4] 0 ,diameter[1,3,0.4] 0 ,,,,diameter[1,3,0.4] 0 ,diameter[1,3,0.4] 0 
+diameter[1,3,0.45] 0 ,diameter[1,3,0.45] 0 ,diameter[1,3,0.45] 0 ,diameter[1,3,0.45] 0 ,,,,diameter[1,3,0.45] 0 ,diameter[1,3,0.45] 0 
+diameter[1,3,0.5] 0 ,diameter[1,3,0.5] 0 ,diameter[1,3,0.5] 0 ,diameter[1,3,0.5] 0 ,,,,diameter[1,3,0.5] 0 ,diameter[1,3,0.5] 0 
+diameter[1,3,0.6] 0 ,diameter[1,3,0.6] 0 ,diameter[1,3,0.6] 0 ,diameter[1,3,0.6] 0 ,,,,diameter[1,3,0.6] 0 ,diameter[1,3,0.6] 0 
+diameter[3,4,0.05] 1 ,diameter[3,4,0.05] 1 ,diameter[3,4,0.05] 1 ,diameter[3,4,0.05] 1 ,,,,diameter[3,4,0.05] 1 ,diameter[3,4,0.05] 0 
+diameter[3,4,0.06] 0 ,diameter[3,4,0.06] 0 ,diameter[3,4,0.06] 0 ,diameter[3,4,0.06] 0 ,,,,diameter[3,4,0.06] 0 ,diameter[3,4,0.06] 0 
+diameter[3,4,0.08] 0 ,diameter[3,4,0.08] 0 ,diameter[3,4,0.08] 0 ,diameter[3,4,0.08] 0 ,,,,diameter[3,4,0.08] 0 ,diameter[3,4,0.08] 0 
+diameter[3,4,0.1] 0 ,diameter[3,4,0.1] 0 ,diameter[3,4,0.1] 0 ,diameter[3,4,0.1] 0 ,,,,diameter[3,4,0.1] 0 ,diameter[3,4,0.1] 1 
+diameter[3,4,0.15] 0 ,diameter[3,4,0.15] 0 ,diameter[3,4,0.15] 0 ,diameter[3,4,0.15] 0 ,,,,diameter[3,4,0.15] 0 ,diameter[3,4,0.15] 0 
+diameter[3,4,0.2] 0 ,diameter[3,4,0.2] 0 ,diameter[3,4,0.2] 0 ,diameter[3,4,0.2] 0 ,,,,diameter[3,4,0.2] 0 ,diameter[3,4,0.2] 0 
+diameter[3,4,0.25] 0 ,diameter[3,4,0.25] 0 ,diameter[3,4,0.25] 0 ,diameter[3,4,0.25] 0 ,,,,diameter[3,4,0.25] 0 ,diameter[3,4,0.25] 0 
+diameter[3,4,0.3] 0 ,diameter[3,4,0.3] 0 ,diameter[3,4,0.3] 0 ,diameter[3,4,0.3] 0 ,,,,diameter[3,4,0.3] 0 ,diameter[3,4,0.3] 0 
+diameter[3,4,0.35] 0 ,diameter[3,4,0.35] 0 ,diameter[3,4,0.35] 0 ,diameter[3,4,0.35] 0 ,,,,diameter[3,4,0.35] 0 ,diameter[3,4,0.35] 0 
+diameter[3,4,0.4] 0 ,diameter[3,4,0.4] 0 ,diameter[3,4,0.4] 0 ,diameter[3,4,0.4] 0 ,,,,diameter[3,4,0.4] 0 ,diameter[3,4,0.4] 0 
+diameter[3,4,0.45] 0 ,diameter[3,4,0.45] 0 ,diameter[3,4,0.45] 0 ,diameter[3,4,0.45] 0 ,,,,diameter[3,4,0.45] 0 ,diameter[3,4,0.45] 0 
+diameter[3,4,0.5] 0 ,diameter[3,4,0.5] 0 ,diameter[3,4,0.5] 0 ,diameter[3,4,0.5] 0 ,,,,diameter[3,4,0.5] 0 ,diameter[3,4,0.5] 0 
+diameter[3,4,0.6] 0 ,diameter[3,4,0.6] 0 ,diameter[3,4,0.6] 0 ,diameter[3,4,0.6] 0 ,,,,diameter[3,4,0.6] 0 ,diameter[3,4,0.6] 0 
+diameter[4,5,0.05] 1 ,diameter[4,5,0.05] 1 ,diameter[4,5,0.05] 1 ,diameter[4,5,0.05] 1 ,,,,diameter[4,5,0.05] 1 ,diameter[4,5,0.05] 1 
+diameter[4,5,0.06] 0 ,diameter[4,5,0.06] 0 ,diameter[4,5,0.06] 0 ,diameter[4,5,0.06] 0 ,,,,diameter[4,5,0.06] 0 ,diameter[4,5,0.06] 0 
+diameter[4,5,0.08] 0 ,diameter[4,5,0.08] 0 ,diameter[4,5,0.08] 0 ,diameter[4,5,0.08] 0 ,,,,diameter[4,5,0.08] 0 ,diameter[4,5,0.08] 0 
+diameter[4,5,0.1] 0 ,diameter[4,5,0.1] 0 ,diameter[4,5,0.1] 0 ,diameter[4,5,0.1] 0 ,,,,diameter[4,5,0.1] 0 ,diameter[4,5,0.1] 0 
+diameter[4,5,0.15] 0 ,diameter[4,5,0.15] 0 ,diameter[4,5,0.15] 0 ,diameter[4,5,0.15] 0 ,,,,diameter[4,5,0.15] 0 ,diameter[4,5,0.15] 0 
+diameter[4,5,0.2] 0 ,diameter[4,5,0.2] 0 ,diameter[4,5,0.2] 0 ,diameter[4,5,0.2] 0 ,,,,diameter[4,5,0.2] 0 ,diameter[4,5,0.2] 0 
+diameter[4,5,0.25] 0 ,diameter[4,5,0.25] 0 ,diameter[4,5,0.25] 0 ,diameter[4,5,0.25] 0 ,,,,diameter[4,5,0.25] 0 ,diameter[4,5,0.25] 0 
+diameter[4,5,0.3] 0 ,diameter[4,5,0.3] 0 ,diameter[4,5,0.3] 0 ,diameter[4,5,0.3] 0 ,,,,diameter[4,5,0.3] 0 ,diameter[4,5,0.3] 0 
+diameter[4,5,0.35] 0 ,diameter[4,5,0.35] 0 ,diameter[4,5,0.35] 0 ,diameter[4,5,0.35] 0 ,,,,diameter[4,5,0.35] 0 ,diameter[4,5,0.35] 0 
+diameter[4,5,0.4] 0 ,diameter[4,5,0.4] 0 ,diameter[4,5,0.4] 0 ,diameter[4,5,0.4] 0 ,,,,diameter[4,5,0.4] 0 ,diameter[4,5,0.4] 0 
+diameter[4,5,0.45] 0 ,diameter[4,5,0.45] 0 ,diameter[4,5,0.45] 0 ,diameter[4,5,0.45] 0 ,,,,diameter[4,5,0.45] 0 ,diameter[4,5,0.45] 0 
+diameter[4,5,0.5] 0 ,diameter[4,5,0.5] 0 ,diameter[4,5,0.5] 0 ,diameter[4,5,0.5] 0 ,,,,diameter[4,5,0.5] 0 ,diameter[4,5,0.5] 0 
+diameter[4,5,0.6] 0 ,diameter[4,5,0.6] 0 ,diameter[4,5,0.6] 0 ,diameter[4,5,0.6] 0 ,,,,diameter[4,5,0.6] 0 ,diameter[4,5,0.6] 0 
+hydro loss[0,1] 0.000102828 ,,hydro loss[0,1] 0.000102828 ,,hydro loss[0,1] 0.000102828 ,,hydro loss[0,1] 0.000102828 ,,,,,hydro loss[0,1] 0.000786572 ,,hydro loss[0,1] 0.055942 ,
+hydro loss[1,2] 8.2424e-05 ,,hydro loss[1,2] 8.2424e-05 ,,hydro loss[1,2] 8.2424e-05 ,,hydro loss[1,2] 8.2424e-05 ,,,,,hydro loss[1,2] 0.000630496 ,,hydro loss[1,2] 0.0448417 ,
+hydro loss[1,3] 0.00170296 ,,hydro loss[1,3] 0.00170296 ,,hydro loss[1,3] 0.00170296 ,,hydro loss[1,3] 0.00170296 ,,,,,hydro loss[1,3] 0.0130266 ,,hydro loss[1,3] 0.0939045 ,
+hydro loss[3,4] 0.00813725 ,,hydro loss[3,4] 0.00813725 ,,hydro loss[3,4] 0.00813725 ,,hydro loss[3,4] 0.00813725 ,,,,,hydro loss[3,4] 0.0622452 ,,hydro loss[3,4] 0.151346 ,
+hydro loss[4,5] 4.94544e-05 ,,hydro loss[4,5] 4.94544e-05 ,,hydro loss[4,5] 4.94544e-05 ,,hydro loss[4,5] 4.94544e-05 ,,,,,hydro loss[4,5] 0.000378297 ,,hydro loss[4,5] 0.026905 ,
+hydro gradient[0,1] 0.00160061 ,,hydro gradient[0,1] 0.00160061 ,,hydro gradient[0,1] 0.00160061 ,,hydro gradient[0,1] 0.00160061 ,,,,,hydro gradient[0,1] 0.0122438 ,,hydro gradient[0,1] 0.870792 ,
+hydro gradient[1,2] 0.00160061 ,,hydro gradient[1,2] 0.00160061 ,,hydro gradient[1,2] 0.00160061 ,,hydro gradient[1,2] 0.00160061 ,,,,,hydro gradient[1,2] 0.0122438 ,,hydro gradient[1,2] 0.870792 ,
+hydro gradient[1,3] 0.0122438 ,,hydro gradient[1,3] 0.0122438 ,,hydro gradient[1,3] 0.0122438 ,,hydro gradient[1,3] 0.0122438 ,,,,,hydro gradient[1,3] 0.0936576 ,,hydro gradient[1,3] 0.675145 ,
+hydro gradient[3,4] 0.00577821 ,,hydro gradient[3,4] 0.00577821 ,,hydro gradient[3,4] 0.00577821 ,,hydro gradient[3,4] 0.00577821 ,,,,,hydro gradient[3,4] 0.0442 ,,hydro gradient[3,4] 0.10747 ,
+hydro gradient[4,5] 0.00160061 ,,hydro gradient[4,5] 0.00160061 ,,hydro gradient[4,5] 0.00160061 ,,hydro gradient[4,5] 0.00160061 ,,,,,hydro gradient[4,5] 0.0122438 ,,hydro gradient[4,5] 0.870792 ,
+PUMP[0,1] 1 ,,PUMP[0,1] 0 ,,PUMP[0,1] 0 ,,PUMP[0,1] 0 ,,,,,PUMP[0,1] 0 ,,PUMP[0,1] 0 ,
+PUMP[1,2] 1 ,,PUMP[1,2] 0 ,,PUMP[1,2] 0 ,,PUMP[1,2] 0 ,,,,,PUMP[1,2] 0 ,,PUMP[1,2] 0 ,
+PUMP[1,3] 1 ,,PUMP[1,3] -0 ,,PUMP[1,3] -0 ,,PUMP[1,3] -0 ,,,,,PUMP[1,3] -0 ,,PUMP[1,3] -0 ,
+PUMP[3,4] 1 ,,PUMP[3,4] 0 ,,PUMP[3,4] 0 ,,PUMP[3,4] 0 ,,,,,PUMP[3,4] 0 ,,PUMP[3,4] 0 ,
+PUMP[4,5] 1 ,,PUMP[4,5] 0 ,,PUMP[4,5] 0 ,,PUMP[4,5] 0 ,,,,,PUMP[4,5] 0 ,,PUMP[4,5] 0 ,
+PRESSURE BY PUMP[0,1] 0 ,,PRESSURE BY PUMP[0,1] 0 ,,PRESSURE BY PUMP[0,1] 0 ,,PRESSURE BY PUMP[0,1] 0 ,,,,,PRESSURE BY PUMP[0,1] 0 ,,PRESSURE BY PUMP[0,1] 0 ,
+PRESSURE BY PUMP[1,2] 1.059 ,,PRESSURE BY PUMP[1,2] 0 ,,PRESSURE BY PUMP[1,2] 0 ,,PRESSURE BY PUMP[1,2] 0 ,,,,,PRESSURE BY PUMP[1,2] 0 ,,PRESSURE BY PUMP[1,2] 0 ,
+PRESSURE BY PUMP[1,3] 75.6644 ,,PRESSURE BY PUMP[1,3] 0 ,,PRESSURE BY PUMP[1,3] 0 ,,PRESSURE BY PUMP[1,3] 0 ,,,,,PRESSURE BY PUMP[1,3] 0 ,,PRESSURE BY PUMP[1,3] 0 ,
+PRESSURE BY PUMP[3,4] 70.977 ,,PRESSURE BY PUMP[3,4] 0 ,,PRESSURE BY PUMP[3,4] 0 ,,PRESSURE BY PUMP[3,4] 0 ,,,,,PRESSURE BY PUMP[3,4] 0 ,,PRESSURE BY PUMP[3,4] 0 ,
+PRESSURE BY PUMP[4,5] 0 ,,PRESSURE BY PUMP[4,5] 0 ,,PRESSURE BY PUMP[4,5] 0 ,,PRESSURE BY PUMP[4,5] 0 ,,,,,PRESSURE BY PUMP[4,5] 0 ,,PRESSURE BY PUMP[4,5] 0 ,
+In Node Elevation[0] 85.4663 ,,,In Node Elevation[0] 59.0319 ,,,In Node Elevation[0] 59.0319 ,,,In Node Elevation[0] 59.0319 ,,,,,,In Node Elevation[0] 59.0199 ,,,In Node Elevation[0] 58.8838 ,,
+In Node Elevation[1] 85.7792 ,,,In Node Elevation[1] 59.032 ,,,In Node Elevation[1] 59.032 ,,,In Node Elevation[1] 59.032 ,,,,,,In Node Elevation[1] 59.0206 ,,,In Node Elevation[1] 58.9398 ,,
+In Node Elevation[2] 86.5253 ,,,In Node Elevation[2] 56.8301 ,,,In Node Elevation[2] 56.8301 ,,,In Node Elevation[2] 56.8301 ,,,,,,In Node Elevation[2] 56.8301 ,,,In Node Elevation[2] 58.8949 ,,
+In Node Elevation[3] 59.0337 ,,,In Node Elevation[3] 59.0337 ,,,In Node Elevation[3] 59.0337 ,,,In Node Elevation[3] 59.0337 ,,,,,,In Node Elevation[3] 59.0337 ,,,In Node Elevation[3] 59.0337 ,,
+In Node Elevation[4] 81.1736 ,,,In Node Elevation[4] 59.0255 ,,,In Node Elevation[4] 59.0255 ,,,In Node Elevation[4] 59.0255 ,,,,,,In Node Elevation[4] 58.9714 ,,,In Node Elevation[4] 51.4784 ,,
+In Node Elevation[5] 80.7725 ,,,In Node Elevation[5] 59.0255 ,,,In Node Elevation[5] 59.0255 ,,,In Node Elevation[5] 59.0255 ,,,,,,In Node Elevation[5] 58.9711 ,,,In Node Elevation[5] 51.0773 ,,
+HEAD PRESSURE[0] 56.26 ,,,HEAD PRESSURE[0] 7.03 ,,,HEAD PRESSURE[0] 7.03 ,,,HEAD PRESSURE[0] 7.03 ,,,,,,HEAD PRESSURE[0] 7.03 ,,,HEAD PRESSURE[0] 7.03 ,,
+HEAD PRESSURE[1] 55.9472 ,,,HEAD PRESSURE[1] 7.03 ,,,HEAD PRESSURE[1] 7.03 ,,,HEAD PRESSURE[1] 7.03 ,,,,,,HEAD PRESSURE[1] 7.03 ,,,HEAD PRESSURE[1] 7.03 ,,
+HEAD PRESSURE[2] 56.26 ,,,HEAD PRESSURE[2] 9.2318 ,,,HEAD PRESSURE[2] 9.2318 ,,,HEAD PRESSURE[2] 9.2318 ,,,,,,HEAD PRESSURE[2] 9.21993 ,,,HEAD PRESSURE[2] 7.03 ,,
+HEAD PRESSURE[3] 7.03 ,,,HEAD PRESSURE[3] 7.03 ,,,HEAD PRESSURE[3] 7.03 ,,,HEAD PRESSURE[3] 7.03 ,,,,,,HEAD PRESSURE[3] 7.03 ,,,HEAD PRESSURE[3] 7.03 ,,
+HEAD PRESSURE[4] 55.8589 ,,,HEAD PRESSURE[4] 7.03 ,,,HEAD PRESSURE[4] 7.03 ,,,HEAD PRESSURE[4] 7.03 ,,,,,,HEAD PRESSURE[4] 7.03 ,,,HEAD PRESSURE[4] 14.4339 ,,
+HEAD PRESSURE[5] 56.26 ,,,HEAD PRESSURE[5] 7.03 ,,,HEAD PRESSURE[5] 7.03 ,,,HEAD PRESSURE[5] 7.03 ,,,,,,HEAD PRESSURE[5] 7.03 ,,,HEAD PRESSURE[5] 14.8081 ,,
